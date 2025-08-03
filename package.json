@@ -1,0 +1,18 @@
+{
+  "name": "20-exercises-with-chai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "@Dominic",
+  "license": "MIT",
+  "description": "20 Exercises With Mocha + Chai + Vanilla JavaScript",
+  "devDependencies": {
+    "chai": "4.4.1",
+    "mocha": "10.2.0"
+  }
+}
